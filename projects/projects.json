@@ -1,0 +1,52 @@
+[
+  {
+    "name": "personal Portfolio-Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image":"port1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/navachaithanya77/personal-portfolio.git"
+    }
+  },
+  {
+    "name": "Netflix-Home page clone",
+    "desc": "A Netflix homepage clone built with HTML and CSS replicates the layout and style of Netflix’s main page, showcasing a modern streaming service interface.",
+    "image": "netflix",
+    "category": "basicweb",
+    "links": {
+      "view": "https://navachaithanya77.github.io/nexflix-homepage-clone/",
+      "code": "https://github.com/navachaithanya77/nexflix-homepage-clone.git"
+    }
+  },
+  {
+    "name": "Amazon homepage-clone",
+    "desc": "An Amazon homepage clone built using CSS, HTML, and JavaScript recreates the look and feel of Amazon's main landing page.",
+    "image":"amazon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://navachaithanya77.github.io/amazon-homepage-clone/",
+      "code": "https://github.com/navachaithanya77/amazon-homepage-clone.git"
+    }
+  },
+  {
+    "name": "Bootstrap portfolio",
+    "desc": "A basic portfolio created using HTML, CSS, and Bootstrap provides a clean and responsive platform.",
+    "image": "port2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://navachaithanya77.github.io/botstrap-portfolio/",
+      "code": "https://github.com/navachaithanya77/botstrap-portfolio.git"
+    }
+  },
+  {
+    "name": "Text-to-speech converter",
+    "desc": "Experience seamless text-to-speech conversion with this website, beautifully crafted using HTML,CSS and javascript.",
+    "image": "texttospeech",
+    "category": "basicweb",
+    "links": {
+      "view": "https://navachaithanya77.github.io/text-to-speech/",
+      "code": "https://github.com/navachaithanya77/text-to-speech.git"
+    }
+  }
+]
